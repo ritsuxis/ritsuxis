@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ritsuxis&count_private=true&theme=tokyonight)](https://github.com/ritsuxis)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritsuxis&layout=compact&count_private=true&theme=tokyonight) \\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritsuxis&layout=compact&count_private=true&theme=tokyonight)
 
 Now Dev 
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NaginoMiya&repo=YY-MusicZ&theme=tokyonight)](https://github.com/NaginoMiya/YY-MusicZ)
