@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 Dev Now 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NaginoMiya&repo=YY-MusicZ&theme=tokyonight)](https://github.com/NaginoMiya/YY-MusicZ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ritsuxis&repo=Utakata&theme=tokyonight)](https://github.com/NaginoMiya/YY-MusicZ)
