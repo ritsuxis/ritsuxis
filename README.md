@@ -21,3 +21,4 @@ In development
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ritsuxis&repo=PuzzleBox&theme=tokyonight)](https://github.com/ritsuxis/PuzzleBox)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ritsuxis&repo=webgl&theme=tokyonight)](https://github.com/ritsuxis/webgl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ritsuxis&repo=ritsuxis.github.io&theme=tokyonight)](https://github.com/ritsuxis/ritsuxis.github.io)
