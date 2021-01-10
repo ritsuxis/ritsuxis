@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 In development
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ritsuxis&repo=ritsuxis.github.io&theme=tokyonight)](https://github.com/https://github.com/NaginoMiya/CokeBoard)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ritsuxis&repo=ritsuxis.github.io&theme=tokyonight)](https://github.com/ritsuxis/ritsuxis.github.io)
