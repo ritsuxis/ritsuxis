@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### 所属
+サークル: [kstm](https://github.com/kstm-su)  
+チーム開発: [NagiNoMiya](https://github.com/NaginoMiya)
+
+#### Account
+Twitter: [せーりつ](https://twitter.com/ritsuxis)
+
 <!--
 **ritsuxis/ritsuxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
