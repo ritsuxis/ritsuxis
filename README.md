@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 所属
+#### Team Repositorys
 サークル: [kstm](https://github.com/kstm-su)  
 チーム開発: [NagiNoMiya](https://github.com/NaginoMiya)
 
