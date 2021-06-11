@@ -5,7 +5,10 @@
 チーム開発: [NagiNoMiya](https://github.com/NaginoMiya)
 
 #### Account
-Twitter: [せーりつ](https://twitter.com/ritsuxis)
+Twitter🕊: [せーりつ](https://twitter.com/ritsuxis)
+AtCoder💚(💤): [seiritsu](https://atcoder.jp/users/seiritsu)
+はてブロ: [りつくろいす](https://seiritsu.hateblo.jp/)
+ProtoPedia: [ritsuxis](https://protopedia.net/prototyper/ritsuxis)
 
 <!--
 **ritsuxis/ritsuxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
