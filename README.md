@@ -5,9 +5,9 @@
 チーム開発: [NagiNoMiya](https://github.com/NaginoMiya)
 
 #### Account
-Twitter🕊: [せーりつ](https://twitter.com/ritsuxis)
-AtCoder💚(💤): [seiritsu](https://atcoder.jp/users/seiritsu)
-はてブロ: [りつくろいす](https://seiritsu.hateblo.jp/)
+Twitter🕊: [せーりつ](https://twitter.com/ritsuxis)  
+AtCoder💚(💤): [seiritsu](https://atcoder.jp/users/seiritsu)  
+はてブロ: [りつくろいす](https://seiritsu.hateblo.jp/)  
 ProtoPedia: [ritsuxis](https://protopedia.net/prototyper/ritsuxis)
 
 <!--
