@@ -27,6 +27,7 @@ ICTSC2020 本戦 9位(kstm)
 ##### 成績なし
 ICPC2019,2020(kstm)  
 CTF for Beginners(kstm)  
+他
 
 <!--
 **ritsuxis/ritsuxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
