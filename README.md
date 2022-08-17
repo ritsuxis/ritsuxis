@@ -2,8 +2,7 @@
 #### Home
 https://ritsuxis.github.io/
 
-### Developing now
-[chapchae](https://github.com/ritsuxis/chapchae)
+
 
 <!--
 **ritsuxis/ritsuxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
